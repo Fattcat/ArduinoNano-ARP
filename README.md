@@ -11,7 +11,7 @@ Disconnect all users from WiFi
 - Thats it & all.
 
 ## Some Images
-<p>img="ArduinoNano-Img01.jpg"</p>
+<img src="ArduinoNano-Img01.jpg" alt="Image01 width="300" height="250">
 
 # Give me star and Spacehuhn too.
 
