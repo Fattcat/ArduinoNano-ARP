@@ -17,7 +17,8 @@
 #define led 13
 #define auth_password "ARP"
 int packetRate = 60; //packets send per second
-static uint8_t mymac[] = { 0xc0, 0xab, 0x03, 0x22, 0x55, 0x99 };
+// static uint8_t mymac[] = { 0xc0, 0xab, 0x03, 0x22, 0x55, 0x99 }; // THIS IS ORIGINAL !
+static uint8_t mymac[] = { 0x00, 0x14, 0x78, 0x26, 0x11, 0x72 }; // FOR FOOL THAT THIS IS TP-Link Device
 
 #ifdef webinterface
 byte Ethernet::buffer[700];
