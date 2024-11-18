@@ -16,12 +16,12 @@ Disconnect all users from WiFi
 <img src="ArduinoNano-Img01.jpg" alt="Image01">
 
 - LAN Cable connector 
-<img src="ArduinoNano-Img02.jpg" alt="Image02" width="330" height="250">
+<img src="ArduinoNano-Img02.jpg" alt="Image02">
 
 - 📝 Inside the box with filled using paper
-<img src="ArduinoNano-Img03.jpg" alt="Image04" width="330" height="250">
+<img src="ArduinoNano-Img03.jpg" alt="Image04">
 
-<img src="ArduinoNano-Img04.jpg" alt="Image01" width="330" height="250">
+<img src="ArduinoNano-Img04.jpg" alt="Image01">
 
 # ! WARNING !
 - THIS IS AGGRESSIVE & HARMFUL ATTACK !
