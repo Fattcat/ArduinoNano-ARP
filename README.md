@@ -13,7 +13,7 @@ Disconnect all users from WiFi
 ## Some Images
 - 📦 All in the plastic box 
 - Basically Fake 🔥 🧱 for fooling others to dont unplug it from 📌target router📌
-<img src="ArduinoNano-Img01.jpg" alt="Image01" width="330" height="250">
+<img src="ArduinoNano-Img01.jpg" alt="Image01">
 
 - LAN Cable connector 
 <img src="ArduinoNano-Img02.jpg" alt="Image02" width="330" height="250">
